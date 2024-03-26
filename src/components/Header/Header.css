@@ -1,0 +1,16 @@
+.navigation-bar{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin: 40px 100px;
+}
+
+.options ul{
+    display: flex;
+    justify-content: space-between;
+    list-style: none;
+}
+.options{
+    width: 35%;
+    color: #333333;
+}
